@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Mandalorian Multiple Image References
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4694772969621824918
+  m_GuidHigh: 4612356458643819190
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5204616459344578707
+      m_GuidHigh: 8406162368451878541
+    m_SerializedTextureGuid:
+      m_GuidLow: 12237615738088439500
+      m_GuidHigh: 15518288760995657592
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Grogu_PC
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4956199712565907715
+      m_GuidHigh: 16036790907092259489
+    m_SerializedTextureGuid:
+      m_GuidLow: 658911159544239971
+      m_GuidHigh: 17769511229689933674
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Mando_PC
+    m_Texture: {fileID: 0}
